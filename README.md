@@ -34,8 +34,7 @@ Using React, Node.js, Express & MongoDB built a Full Stack MERN Application call
 
 ### Clone This Repository  
 
-git clone https://github.com/Apurvashelar/Quick-Draw-Recognizer---frontend  
-cd quick-draw recognizer  
+git clone  https://github.com/Apurvashelar/Memories-Gallery-using-MERN-stack.git  
 
 
 
