@@ -13,7 +13,7 @@ Using React, Node.js, Express & MongoDB built a Full Stack MERN Application call
 ## Technologies Used  
   **ReactJS**- used react DOM, Hooks, Middlewares for building the frontend of the application.   
   **NodeJS**- used to integrate the backend, and authenticated it using JWT.   
-  **MongoDB**- used to store the database of the application. Database Link - https://memories-app-project-final.herokuapp.com/posts  
+  **MongoDB**- used to store the database of the application. Backend hosted at - https://memories-app-project-final.herokuapp.com/posts  
   **Finally**, frontend is deployed on Netlify. Live Project - https://memories-app-project-final.herokuapp.com/posts  
   The backend is deployed on **Heroku**.       
   
