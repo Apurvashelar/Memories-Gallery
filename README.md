@@ -48,4 +48,4 @@ git clone  https://github.com/Apurvashelar/Memories-Gallery-using-MERN-stack.git
 
 * **GitHub** - https://github.com/Apurvashelar  
 
-* **Linkdin** - https://www.linkedin.com/in/apurva-shelar-9310671b4/  
+* **LinkedIn** - https://www.linkedin.com/in/apurva-shelar-9310671b4/  
