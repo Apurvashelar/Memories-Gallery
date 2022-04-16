@@ -1,0 +1,10 @@
+
+body {
+    background-image: url("cg1.jpg");
+    background-size: 90% 100%;
+}
+
+* {
+    /* font-family: 'Noto Sans JP' !important; */
+    font-family: 'Zilla Slab', serif!important;
+}
